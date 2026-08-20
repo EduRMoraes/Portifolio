@@ -73,10 +73,6 @@ However, the contract is not without consequences.
 
 If he makes a mistake or targets the wrong person, he must bear the consequences himself.
 
-This establishes an important principle of his power:
-
-> **Justice must remain balanced, even when it hurts the person enforcing it.**
-
 ---
 
 ## The Evolution of the Ability
@@ -148,9 +144,4 @@ He can:
 - Collect payment through life, sanity, or identity
 - Manipulate individuals into believing they willingly accepted the agreement
 
-The same concept of a supernatural contract therefore becomes two opposing philosophies.
-
 ```
-It represents something about **who they are**.
-
-This creates a system where powers can evolve alongside their users.
