@@ -199,21 +199,3 @@ Each location was designed to provide more than visual atmosphere.
 Its geography, inhabitants, hazards, and environmental conditions can be used to generate **encounters, quests, discoveries, character interactions, and narrative events** during a tabletop campaign.
 
 ---
-
-# Design Philosophy
-
-The central idea behind **Antiga Alameda** is the collision between:
-
-**Nature + Technology + Human Civilization**
-
-The setting explores what happens when these three systems stop existing independently.
-
-Buildings become organisms.
-
-Forests become networks.
-
-Machines become biological.
-
-Weather becomes unpredictable.
-
-And the environment itself becomes part of the threat.
