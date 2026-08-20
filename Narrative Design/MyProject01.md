@@ -46,22 +46,43 @@ Their individual experiences gradually expose them to forces much larger than th
 
 ---
 
-## The Traveling Hunters
+# The Traveling Hunters
 
-A group of traveling hunters eventually becomes connected through their encounters with the cult and the entity worshipped as a god.
+The **Traveling Hunters** are a group of hunters who travel between different regions, taking on dangerous creatures, investigating supernatural phenomena, and helping communities affected by them.
 
-These characters come from different backgrounds and possess different motivations, abilities, and perspectives.
+Their journey eventually brings them into direct conflict with the **Cult** and the entity worshipped as its false god.
 
-Although they may not initially share the same goals, their encounters with the organization gradually bring them into the same conflict.
+Although the hunters have their own backgrounds, personalities, and motivations, they share a common objective:
 
-The hunters serve as an important counterpoint to the cult:
+> **Stop the Cult and prevent the False God from spreading its influence.**
 
-**They hunt what they do not understand.**
+As the story progresses, their paths cross with **Eleanor and Desmond RedWood**, eventually leading them to join the protagonists.
 
-**The cult seeks to control what others believe.**
+From that point onward, the hunters become an important part of the resistance against the Cult.
 
-Their journeys eventually converge around the same threat.
+## Their Role in the Story
 
+The Traveling Hunters serve several purposes within the narrative:
+
+- Expand the story beyond the RedWood siblings
+- Introduce different perspectives on the supernatural world
+- Provide knowledge about creatures and supernatural phenomena
+- Establish additional relationships and conflicts
+- Help expose the Cult's activities
+- Fight alongside the protagonists
+- Connect different regions and events throughout the story
+
+Their encounters with the Cult gradually reveal that many seemingly unrelated incidents are connected to the same organization.
+
+## Relationship with the Protagonists
+
+The hunters initially encounter the protagonists through their own investigations.
+
+As they uncover the same threat from different directions, their objectives begin to converge.
+
+Eventually, they form an alliance with **Eleanor and Desmond**, becoming part of the same struggle against the Cult.
+
+Their relationship is therefore not one of rivalry, but of **gradual alliance and shared purpose**.
 ---
 
 # The Cult
