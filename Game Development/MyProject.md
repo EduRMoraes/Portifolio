@@ -729,5 +729,3 @@ That includes:
 * Iterative development
 
 As my knowledge of Game Development grows, the project's systems and design will continue to evolve.
-
-> **Start small. Build systems. Learn from them. Then make the world bigger.**
