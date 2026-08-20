@@ -85,7 +85,7 @@ Research records suggest that the infection may be capable of interpreting and r
 
 ---
 
-# Belmonte Urban Center
+# Alameda Urban Center
 
 The central urban region contains old buildings, commercial districts, and modern infrastructure partially consumed by the infection.
 
