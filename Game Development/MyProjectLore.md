@@ -153,5 +153,3 @@ The game's narrative aims to make the player question the world rather than simp
 The player should gradually realize that the ruined environment is not simply a backdrop for the game.
 
 The world is therefore designed to function as a narrative layer alongside the gameplay.
-
-> **The player does not simply explore the world. They reconstruct it.**
