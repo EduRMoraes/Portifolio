@@ -81,6 +81,7 @@ The hunters initially encounter the protagonists through their own investigation
 As they uncover the same threat from different directions, their objectives begin to converge.
 
 Eventually, they form an alliance with **Eleanor and Desmond**, becoming part of the same struggle against the Cult.
+
 ---
 
 # The Cult
