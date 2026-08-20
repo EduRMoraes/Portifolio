@@ -10,8 +10,6 @@ The purpose of these documents is to demonstrate my understanding of the testing
 
 ### Test Strategy
 
-**[`test-strategy.md`](./test-strategy.md)**
-
 Defines the overall approach used to ensure software quality.
 
 It establishes the testing objectives, scope, testing types, risk considerations, environments, tools, and general principles that guide the QA process.
@@ -31,8 +29,6 @@ It establishes the testing objectives, scope, testing types, risk considerations
 ---
 
 ### Test Plan
-
-**[`test-plan.md`](./test-plan.md)**
 
 Describes how testing will be planned and executed for a specific project, feature, release, or product.
 
@@ -55,8 +51,6 @@ While the Test Strategy defines the overall approach, the Test Plan translates t
 ---
 
 ### Test Cases
-
-**[`test-cases.md`](./test-cases.md)**
 
 Documents individual scenarios used to verify whether the software behaves according to its requirements and expected behavior.
 
@@ -81,8 +75,6 @@ Test cases are designed to be clear, reproducible, and traceable.
 
 ### Acceptance Criteria
 
-**[`acceptance-criteria.md`](./acceptance-criteria.md)**
-
 Defines the conditions that must be satisfied for a feature, requirement, or user story to be considered complete and acceptable.
 
 Acceptance criteria establish a shared understanding between business stakeholders, developers, and QA.
@@ -101,8 +93,6 @@ Acceptance criteria establish a shared understanding between business stakeholde
 ---
 
 ### Bug Reports
-
-**[`bug-report.md`](./bug-report.md)**
 
 Describes how software defects are documented, communicated, and tracked.
 
@@ -126,8 +116,6 @@ A good bug report should provide enough information for the development team to 
 ---
 
 ### Test Execution
-
-**[`test-execution.md`](./test-execution.md)**
 
 Documents the execution of test cases and the results obtained during a testing cycle.
 
