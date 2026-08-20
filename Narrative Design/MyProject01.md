@@ -32,57 +32,101 @@ As the story progresses, the protagonists become increasingly involved in confli
 
 ---
 
-# Major Conflicts
+# Major Conflicts & Mysteries
 
-The narrative is built around several interconnected conflicts.
+The narrative of **Scarlet Hills** is built around several interconnected conflicts, mysteries, and long-running narrative threads.
+
+What initially appear to be isolated events gradually begin to reveal connections between the supernatural world, religious institutions, political interests, and the mysterious organization operating behind the scenes.
+
+## Disappearances
+
+People have begun disappearing across different regions, with some cases receiving little attention while others are deliberately concealed.
+
+As the protagonists investigate these disappearances, they begin to uncover connections to the Cult and its activities.
+
+What happens to those who disappear becomes one of the first indications that something much larger is taking place.
+
+---
+
+## Religion & Political Influence
+
+Religion is not limited to personal belief within the world of **Scarlet Hills**.
+
+Members of the elite gradually begin using religious influence as a means of entering and manipulating political structures.
+
+Faith becomes a tool for gaining influence, controlling populations, and shaping political decisions.
+
+This creates a growing connection between:
+
+**Religion → Social Influence → Political Power → Control**
+
+The deeper the protagonists investigate, the harder it becomes to distinguish genuine faith from deliberate manipulation.
+
+---
+
+## The Unnatural Creatures
+
+Creatures are not supposed to appear everywhere.
+
+Most supernatural species have established habitats, behavioral patterns, and environmental conditions in which they normally exist.
+
+However, increasingly unusual sightings begin to occur outside these expected regions.
+
+Creatures appear in places where they should not exist.
+
+Some display abnormal physical characteristics.
+
+Others behave in ways inconsistent with what hunters and researchers already know about them.
+
+This raises an unsettling possibility:
+
+> **What if these creatures are not migrating — but being created?**
+
+The investigation into these anomalies gradually becomes connected to the Cult and the larger supernatural conspiracy.
+
+---
 
 ## The RedWood Siblings
 
-Eleanor and Desmond begin their journey dealing with problems that appear relatively local.
+The history of **Eleanor and Desmond RedWood** is another mystery that develops throughout the story.
 
-Desmond works as a creature hunter, while Eleanor attempts to understand and control her supernatural abilities.
+Their relationship, abilities, origins, and past are not fully explained at the beginning.
 
-Their individual experiences gradually expose them to forces much larger than themselves.
+As the story progresses, details about their family and personal history begin to reveal that their connection to the supernatural world may be deeper than they initially realize.
+
+Their past is not simply background information.
+
+It becomes part of the larger mystery surrounding the world itself.
+
+---
+
+## The Traveling Hunters
+
+The Traveling Hunters are introduced as experienced individuals who travel between regions dealing with supernatural creatures and unusual phenomena.
+
+Their origins, previous experiences, and reasons for becoming hunters are gradually explored throughout the story.
+
+Their individual histories eventually become connected to the larger conflict with the Cult.
+
+After crossing paths with Eleanor and Desmond, they become their allies and join the fight against the organization and its false god.
 
 ---
 
-# The Traveling Hunters
+## The Seven Deadly Sins
 
-The **Traveling Hunters** are a group of hunters who travel between different regions, taking on dangerous creatures, investigating supernatural phenomena, and helping communities affected by them.
+The **Seven Deadly Sins** represent more than religious concepts within the story.
 
-Their journey eventually brings them into direct conflict with the **Cult** and the entity worshipped as its false god.
+They function as pillars of the supernatural power surrounding the Tower and the False God.
 
-Although the hunters have their own backgrounds, personalities, and motivations, they share a common objective:
+Each Sin is associated with a specific aspect of human behavior, suffering, and corruption.
 
-> **Stop the Cult and prevent the False God from spreading its influence.**
+As these forces grow stronger, so does the entity that feeds upon them.
 
-As the story progresses, their paths cross with **Eleanor and Desmond RedWood**, eventually leading them to join the protagonists.
+This creates another central question:
 
-From that point onward, the hunters become an important part of the resistance against the Cult.
+> **Are the Sins merely manifestations of human nature, or are they being deliberately cultivated?**
 
-## Their Role in the Story
-
-The Traveling Hunters serve several purposes within the narrative:
-
-- Expand the story beyond the RedWood siblings
-- Introduce different perspectives on the supernatural world
-- Provide knowledge about creatures and supernatural phenomena
-- Establish additional relationships and conflicts
-- Help expose the Cult's activities
-- Fight alongside the protagonists
-- Connect different regions and events throughout the story
-
-Their encounters with the Cult gradually reveal that many seemingly unrelated incidents are connected to the same organization.
-
-## Relationship with the Protagonists
-
-The hunters initially encounter the protagonists through their own investigations.
-
-As they uncover the same threat from different directions, their objectives begin to converge.
-
-Eventually, they form an alliance with **Eleanor and Desmond**, becoming part of the same struggle against the Cult.
-
----
+The answer gradually connects the Tower, the Cult, and the False God.
 
 # The Cult
 
@@ -110,9 +154,7 @@ The entity's power is connected to the belief of others.
 
 The more people believe in it, the stronger its influence becomes.
 
-This creates a central conflict within the story:
-
-> **Is something truly divine because it possesses power, or because people believe that it is?**
+This creates a central conflict within the story: Is something truly divine because it possesses power, or because people believe that it is?
 
 ---
 
