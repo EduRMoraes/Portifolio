@@ -56,12 +56,6 @@ Members of the elite gradually begin using religious influence as a means of ent
 
 Faith becomes a tool for gaining influence, controlling populations, and shaping political decisions.
 
-This creates a growing connection between:
-
-**Religion → Social Influence → Political Power → Control**
-
-The deeper the protagonists investigate, the harder it becomes to distinguish genuine faith from deliberate manipulation.
-
 ---
 
 ## The Unnatural Creatures
@@ -78,10 +72,6 @@ Some display abnormal physical characteristics.
 
 Others behave in ways inconsistent with what hunters and researchers already know about them.
 
-This raises an unsettling possibility:
-
-> **What if these creatures are not migrating — but being created?**
-
 The investigation into these anomalies gradually becomes connected to the Cult and the larger supernatural conspiracy.
 
 ---
@@ -94,9 +84,7 @@ Their relationship, abilities, origins, and past are not fully explained at the 
 
 As the story progresses, details about their family and personal history begin to reveal that their connection to the supernatural world may be deeper than they initially realize.
 
-Their past is not simply background information.
-
-It becomes part of the larger mystery surrounding the world itself.
+Their past becomes part of the larger mystery surrounding the world itself.
 
 ---
 
@@ -121,12 +109,6 @@ They function as pillars of the supernatural power surrounding the Tower and the
 Each Sin is associated with a specific aspect of human behavior, suffering, and corruption.
 
 As these forces grow stronger, so does the entity that feeds upon them.
-
-This creates another central question:
-
-> **Are the Sins merely manifestations of human nature, or are they being deliberately cultivated?**
-
-The answer gradually connects the Tower, the Cult, and the False God.
 
 # The Cult
 
