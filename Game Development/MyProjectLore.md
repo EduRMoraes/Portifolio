@@ -79,10 +79,6 @@ Major themes include:
 - Human survival
 - The consequences of greed
 
-The intention is not to present technology itself as the enemy.
-
-Instead, the world explores what happens when **human ambition develops faster than human responsibility**.
-
 ---
 
 # The Mega Building
@@ -119,13 +115,7 @@ Others were born after the collapse and know the old world only through stories.
 
 This creates different perspectives on the same events.
 
-A politician may describe a historical event as necessary.
-
-A survivor may remember it as a tragedy.
-
-A corporate employee may believe the technology saved millions of lives.
-
-Another character may have lost their entire family because of it.
+A politician may describe a historical event as necessary. A survivor may remember it as a tragedy. A corporate employee may believe the technology saved millions of lives. Another character may have lost their entire family because of it.
 
 The player is therefore encouraged to form their own understanding of the world.
 
@@ -155,19 +145,12 @@ And advanced technologies originally created to solve these problems were increa
 
 Eventually, the systems humanity had built became impossible to sustain.
 
-The apocalypse was not the end of civilization in a single moment.
-
-It was the consequence of **many decisions accumulating over time**.
-
 ---
 
 # Narrative Direction
 
 The game's narrative aims to make the player question the world rather than simply explain it.
-
 The player should gradually realize that the ruined environment is not simply a backdrop for the game.
-
-**Every damaged structure, abandoned object, newspaper, NPC, and technological system exists because something happened before the player arrived.**
 
 The world is therefore designed to function as a narrative layer alongside the gameplay.
 
