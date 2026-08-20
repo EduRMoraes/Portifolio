@@ -28,5 +28,3 @@ For me, Quality Assurance goes beyond determining whether a feature works. It in
 - How users interact with it
 - Whether potential edge cases have been considered
 - Whether the overall experience is consistent and reliable
-
-> **Quality is not only about finding what is broken — it's about understanding what should work, how it should work, and why it matters.**
