@@ -68,11 +68,7 @@ My current areas of study and experimentation include:
 - Quality Assurance
 - Software Testing
 - Game Development
-- Unity
-- C#
 - Software Architecture
-- Automation
-- Artificial Intelligence
 - Game Systems Design
 - Narrative Design
 - Worldbuilding
@@ -82,6 +78,7 @@ My current areas of study and experimentation include:
 
 ## Career Goal
 
-I aim to continue developing as a **Quality Assurance professional and software developer**, while combining my technical background with my interest in Game Development and Narrative Design.
-
-I am particularly interested in environments where I can contribute to software quality while continuing to learn about development, systems, and the user experience.
+My long-term goal is to one day publish and share my own games and stories.
+Whether through **video games, books, or other forms of interactive storytelling**, I want to create worlds, characters, and narratives that people can experience and remember.
+Game Development and storytelling are not only areas I study as technical disciplines, but also creative pursuits that I hope to turn into something tangible in the future.
+Ultimately, I want to combine my passion for **technology, games, and storytelling** to create and publish stories of my own.
