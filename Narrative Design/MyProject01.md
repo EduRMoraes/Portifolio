@@ -122,23 +122,6 @@ It seeks to manipulate belief itself as a source of supernatural power.
 
 ---
 
-# The False God
-
-The entity worshipped by the cult was not originally a god.
-
-It was once human.
-
-Through experimentation, psychological manipulation, torture, and prolonged indoctrination, the individual was gradually convinced that they were divine.
-
-Eventually, the distinction between human identity and divine identity became almost impossible to separate.
-
-The entity's power is connected to the belief of others.
-
-The more people believe in it, the stronger its influence becomes.
-
-This creates a central conflict within the story: Is something truly divine because it possesses power, or because people believe that it is?
-
----
 
 # Belmonte District
 
