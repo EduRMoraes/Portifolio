@@ -8,6 +8,6 @@ Using this question as a narrative starting point, I developed an original quest
 
 The project demonstrates my approach to transforming a broader worldbuilding question into a **playable narrative concept**, connecting lore, faction identity, character motivations, and quest progression while maintaining consistency with the established setting.
 
-The complete quest concept, including its narrative structure, progression, characters, and worldbuilding, was developed as a **mind map in FigJam**.
+The complete quest concept, including its narrative structure, progression, and worldbuilding, was developed as a **mind map in FigJam**.
 
 **[View the Quest Concept on FigJam](https://www.figma.com/board/4gEuvWNCmruUXg93Gj1wRt/Renaissance?node-id=0-1&t=YInbzvnsmbbgZS1X-1)**
